@@ -160,5 +160,6 @@ can be added to the course repo.
 | Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://github.com/Geophillic/geophillic.github.io](https://github.com/Geophillic/geophillic.github.io) |
 | Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)|
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
+| Theresa N. Monari | Student | Iamnyatichi | [https://iamnyatichi.github.io/](https://iamnyatichi.github.io/) |
 | Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m](https://github.com/Omshanti0m) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
